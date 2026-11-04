@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "persisting-api-data-sqlite",
+      "title": "Persisting API Data with SQLite",
+      "description": "Extend a FastAPI book catalog with persistent SQLite storage and parameterized CRUD queries.",
+      "path": "assignments/persisting-api-data-sqlite",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
