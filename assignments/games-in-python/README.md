@@ -4,7 +4,7 @@
 
 Pratique manipulação de strings, listas, entrada de dados, loops e condicionais ao criar um jogo da Forca em Python. O objetivo é adivinhar uma palavra oculta antes que as tentativas se esgotem.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Preparar a Palavra e o Progresso do Jogo
 
